@@ -1,5 +1,4 @@
-## Ticket's Reforged Bot
-## IS THE BEST TICKET BOT
+## Ticket's Reforged Bot IS THE BEST TICKET BOT
 
 # 💨 General
 TicketReforged is a new generation of ticketbot for All Servers Discord
